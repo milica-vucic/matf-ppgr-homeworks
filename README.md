@@ -21,3 +21,7 @@
     - A2Euler
     - AxisAngle2Q
     - Q2AxisAngle
+
+### Homework 4
+- Calculating camera parameters.
+- Creating camera matrix from points that user can enter.

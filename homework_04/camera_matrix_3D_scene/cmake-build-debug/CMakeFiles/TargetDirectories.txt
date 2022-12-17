@@ -1,0 +1,3 @@
+/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_matrix_3D_scene/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_matrix_3D_scene/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_matrix_3D_scene/cmake-build-debug/CMakeFiles/camera.dir

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="camera"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\usr\share\;CMake Files\..\..\..\..\..\..\..\usr\share\eigen3\;CMake Files\..\..\..\..\..\..\..\usr\share\eigen3\cmake\;CMake Files\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="camera">
+				<Option output="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/camera" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 camera"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="camera/fast">
+				<Option output="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/camera" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 camera/fast"/>
+					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j8 -f &quot;/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/camera.cpp">
+			<Option target="camera"/>
+		</Unit>
+		<Unit filename="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/../../../../../../../usr/share/eigen3/cmake/Eigen3Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\share\eigen3\cmake\"/>
+		</Unit>
+		<Unit filename="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/../../../../../../../usr/share/eigen3/cmake/Eigen3ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\share\eigen3\cmake\"/>
+		</Unit>
+		<Unit filename="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/../../../../../../../usr/share/eigen3/cmake/Eigen3Targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\share\eigen3\cmake\"/>
+		</Unit>
+		<Unit filename="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/../../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/../../../../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/../../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/milica/Desktop/PPGR/matf-ppgr-homeworks/homework_04/camera_parameters/../../../../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

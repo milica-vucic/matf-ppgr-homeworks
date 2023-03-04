@@ -25,3 +25,6 @@
 ### Homework 4
 - Calculating camera parameters.
 - Creating camera matrix from points that user can enter.
+
+### Homework 5
+- Reconstruction of the 3d scene.
